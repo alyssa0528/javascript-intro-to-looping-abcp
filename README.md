@@ -1,4 +1,4 @@
-# JavaScript Loops
+do-whil# JavaScript Loops
 
 ## Objectives
 - Build a for loop
